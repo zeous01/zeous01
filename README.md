@@ -1,4 +1,4 @@
-![MasterHead]((https://github.com/zeous01/zeous01/Brown Wood Minimalist Profile LinkedIn Banner.png?raw=true)
+![MasterHead](https://github.com/zeous01/zeous01/Brown-Wood-Minimalist-Profile-LinkedIn-Banner.png?raw=true)
 
 # 💫 About Me:
 👋 Hi, I’m Zaryab<br><br>Full-stack developer with expertise in building scalable, data-driven web applications. Skilled in Next.js, NestJS, React.js, TypeScript, PHP, Laravel, SQL & NoSQL databases, and ORM integrations. Experienced in designing REST APIs, cloud deployments, CI/CD pipelines, and end-to-end DevOps practices.<br><br>💼 Core Competencies:<br><br>.) Full-stack web development (Next.js, NestJS, React.js, PHP, Laravel)<br>.) Database design & optimization (SQL, NoSQL, ORMs)<br>.) RESTful APIs & backend architecture<br>.) Scalable applications & system design<br>.) Cloud deployments & DevOps (CI/CD, monitoring, automation)<br><br>🎓 Background:<br>Graduated developer passionate about clean, maintainable, and efficient code. Always exploring new technologies and best practices to deliver robust software solutions.
