@@ -1,4 +1,5 @@
-![MasterHead](https://media.istockphoto.com/id/910806154/photo/laptop-header.jpg?s=612x612&w=0&k=20&c=VIrtrVbEL7oWBgovPpdZJZMgE24vCIXC8PMrwEC-QNA=)
+![MasterHead](https://www.canva.com/design/DAGuXCqUBMQ/kKmVQaG5e7impqGzbeRAAQ/edit?utm_content=DAGuXCqUBMQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 # 💫 About Me:
 👋 Hi, I’m Zaryab<br><br>Full-stack developer with expertise in building scalable, data-driven web applications. Skilled in Next.js, NestJS, React.js, TypeScript, PHP, Laravel, SQL & NoSQL databases, and ORM integrations. Experienced in designing REST APIs, cloud deployments, CI/CD pipelines, and end-to-end DevOps practices.<br><br>💼 Core Competencies:<br><br>.) Full-stack web development (Next.js, NestJS, React.js, PHP, Laravel)<br>.) Database design & optimization (SQL, NoSQL, ORMs)<br>.) RESTful APIs & backend architecture<br>.) Scalable applications & system design<br>.) Cloud deployments & DevOps (CI/CD, monitoring, automation)<br><br>🎓 Background:<br>Graduated developer passionate about clean, maintainable, and efficient code. Always exploring new technologies and best practices to deliver robust software solutions.
 
